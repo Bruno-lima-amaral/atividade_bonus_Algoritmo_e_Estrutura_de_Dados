@@ -66,10 +66,3 @@ A lista contém **5 exercícios** envolvendo estruturas de prioridade (Heaps) e 
   * **Min-Heap** → metade maior
 
 ---
-
-## ✔️ Observações
-
-* Todos os exercícios usam conceitos de **Heap**, **PriorityQueue**, **complexidade logarítmica** e estruturação eficiente.
-* O gabarito está presente ao final do PDF original.
-
-Se quiser, posso gerar também uma **versão em código**, **um resumo mais curto**, ou **um README no estilo GitHub**.
